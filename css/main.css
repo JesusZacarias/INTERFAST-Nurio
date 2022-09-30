@@ -149,7 +149,7 @@ iframe {
 /* typewriter */
 
 #typewriter {
-    width: 11.2ch;
+    width: 12.2ch;
     animation: typing 2s steps(12), effect .5s infinite step-end  alternate;
     white-space: nowrap;
     overflow: hidden;
